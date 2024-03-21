@@ -1,0 +1,14 @@
+body{
+    align-items: center;
+    background-color: #2D2D2D;
+}
+
+.canvas{
+    border-radius: 15px solid red;
+    height: 900px;
+    width: 900px;
+    position: absolute;
+    top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
